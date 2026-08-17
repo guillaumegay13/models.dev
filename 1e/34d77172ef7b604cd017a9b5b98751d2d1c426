@@ -1,0 +1,21 @@
+providers/deepseek/models/deepseek-v4-flash.toml
+  s_d1fdf9ba73f156::t_eaa99c2b9e0ff4 3-8
+providers/deepseek/models/deepseek-v4-pro.toml
+  s_d1fdf9ba73f156::t_7573d2f391335d 3-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "1e34d77172ef7b604cd017a9b5b98751d2d1c426",
+  "prompts": {},
+  "sessions": {
+    "s_d1fdf9ba73f156": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "51e6a0ef-42dc-4c97-ac85-1fa2337a1d97",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
