@@ -1,0 +1,51 @@
+providers/manifest/models/anthropic/claude-haiku-4-5.toml
+  s_2af06e192926bf::t_8c18af0442b4f1 1-9
+providers/manifest/models/xai/grok-4.toml
+  s_2af06e192926bf::t_96122c6bea9d5b 1
+  s_2af06e192926bf::t_ac520f53c69af7 2-14
+providers/manifest/models/anthropic/claude-opus-4-5.toml
+  s_2af06e192926bf::t_866980c1ccfa2a 1-9
+providers/manifest/models/anthropic/claude-sonnet-4.toml
+  s_2af06e192926bf::t_9c658c237fb575 1-9
+providers/manifest/models/openai/gpt-5-mini.toml
+  s_2af06e192926bf::t_458cfef2d261c7 1-13
+providers/manifest/models/openai/gpt-5.1.toml
+  s_2af06e192926bf::t_f61a77c8c9fdfc 1-13
+packages/core/src/sync/index.ts
+  s_2af06e192926bf::t_2451de71afc693 97,112
+  s_2af06e192926bf::t_8bb3b54765367a 121
+  s_2af06e192926bf::t_54866af311db27 15
+providers/manifest/models/openai/o4-mini.toml
+  s_2af06e192926bf::t_53f7e7a5387596 1-13
+providers/manifest/models/google/gemini-2.5-pro.toml
+  s_2af06e192926bf::t_47ef4eaaf453fc 1-9
+packages/core/src/sync/providers/manifest.ts
+  s_2af06e192926bf::t_d7da979957b371 1-333
+providers/manifest/models/openai/gpt-5.toml
+  s_2af06e192926bf::t_93b8a155b971bb 1-13
+providers/manifest/logo.svg
+  s_2af06e192926bf::t_5a6f969cfd9776 6
+  s_2af06e192926bf::t_055fc1d925193f 1-5
+providers/manifest/models/google/gemini-2.5-flash.toml
+  s_2af06e192926bf::t_35ea3db278eb80 1-9
+providers/manifest/provider.toml
+  s_2af06e192926bf::t_6c05f4d1ff2527 1-12
+providers/manifest/models/openai/gpt-5.2.toml
+  s_2af06e192926bf::t_40a389f4416aec 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "20f9e38b0f4bb1daa98efe5f0176183b7d6d9dc1",
+  "prompts": {},
+  "sessions": {
+    "s_2af06e192926bf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2e561b8-22c4-4c01-8611-fdf1f9044323",
+        "model": "deepseek/deepseek-v4-flash"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
